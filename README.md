@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Demo](https://miro.medium.com/0*V7NS3dvYQLVi6DFL.gif)
+![Demo](https://nanonets.com/blog/content/images/2020/08/Hero-Gif-1.gif)
 
 This project implements a Convolutional Neural Network (CNN) to recognize handwritten letters (A-Z) using the EMNIST Letters dataset. The model achieves letter classification through a deep learning architecture built with TensorFlow and Keras.
 
